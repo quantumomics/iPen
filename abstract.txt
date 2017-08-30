@@ -1,0 +1,36 @@
+Producing the Ionic liquid(s) to develop the multi-color ink/gel pen with the help of electronics to control the color changing.
+
+1. Identifying the ionic liquid(s).
+2. How we can colorize it by using the supplying the voltages as a difference to produce the multi-color.
+
+Let say, the voltage difference is a driving force to change the color in a particular order and it can go for back and forth.
+
+B       R     G      B       O       G
+Black   Red   Green  Black   Orange  Gold
+-------------------------------------------------------->
+<-------------------------------------------------------
++ve                                                  +ve
+?                                                      ?
+
+3. Now, we have to control through a electronics to produce it.
+4. Working temperature should be -- +50°c to 10°c.
+5. Check for the solubility/viscosity, finally all physics.
+6. Toxicological effect of Ionic Liquid.
+7. Time lagging to build the color, so how you can control the running for handwriting.
+   Let Say, for produce the color, we need +1ve and 4sec.
+   So, can we increase the time to produce through more voltage supply?
+If not, we can go for more selection or using the catalyst for that.
+8. Running cost for the ionic liquid, how much we have to provide as a mAh and battery. So,finally how long we can use it.
+9. Now, we have to create the barrels, for color producing liquids as a multi-color and how much we can write with one filling.
+
+
+References
+==========
+
+D. Zhao; Y. Liao & Z. Zhang (2007). "Toxicity of Ionic Liquids". CLEAN - Soil, Air, Water. 35(1): 42–48. doi:10.1002/clen.200600015.
+
+J Ranke; S Stolte; R Störmann; J Arning & B Jastorff (2007). "Design of sustainable chemical products – the example of ionic liquids". Chem. Rev. 107 (6): 2183–2206. PMID 17564479. doi:10.1021/cr050942s
+
+Marek Kosmulski; Jan Gustafsson & Jarl B. Rosenholm (2004). "Thermal stability of low temperature ionic liquids revisited". Thermochimica Acta. 412: 47–53. doi:10.1016/j.tca.2003.08.022
+
+Peter Wasserscheid (2006). "Volatile times for ionic liquids". Nature. 439 (7078): 797. Bibcode:2006Natur.439..797W. PMID 16482141. doi:10.1038/439797a
